@@ -36,7 +36,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arubendev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aRubenDev&theme=default&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aRubenDev&theme=default&show_icons=true&hide_border=true&layout=compact" alt="aRubenDev's GitHub Stats" />
 </div>
 
 ###
