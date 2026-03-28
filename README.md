@@ -30,7 +30,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aRubenDev&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://1g9vv49v-3000.uks1.devtunnels.ms/card/aRubenDev/stats" height="300" alt="activity-graph graph"  />
 </div>
 
