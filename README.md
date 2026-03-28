@@ -31,7 +31,7 @@
 
 <div align="center">
   <img src="https://1g9vv49v-3000.uks1.devtunnels.ms/card/aRubenDev/stats" height="300" alt="activity-graph graph"  />
-  <img src="https://1g9vv49v-3000.uks1.devtunnels.ms/card/aRubenDev/repo?name=gh-stats" height="300" alt="activity-graph graph"  />
+  <img src="https://1g9vv49v-3000.uks1.devtunnels.ms/card/aRubenDev/repo?name=gh-stats" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
